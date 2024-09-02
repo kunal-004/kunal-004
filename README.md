@@ -95,3 +95,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-pitale-97a1a0250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-pitale-97a1a0250/" height="30" width="40" /></a>
 </p>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kunal-004/kunal-004/output/snake.svg" alt="Snake animation" />
+
+###
