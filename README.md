@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **kunalpitale6@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-pitale-97a1a0250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-pitale-97a1a0250/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -92,6 +88,10 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-004&show_icons=true&locale=en" alt="kunal-004" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-004&" alt="kunal-004" /></p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-pitale-97a1a0250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-pitale-97a1a0250/" height="30" width="40" /></a>
+</p>
