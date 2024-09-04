@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kunal-004?tab=repositories](https://github.com/kunal-004?tab=repositories)
+- 👨‍💻 All of my projects are available at [Link](https://github.com/kunal-004?tab=repositories)
 
 - 📫 How to reach me **kunalpitale6@gmail.com**
 
